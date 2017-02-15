@@ -18,6 +18,7 @@ namespace MergeConflictFun
             Console.WriteLine("Sweeeeeeet");
             Console.WriteLine("Suh dude");
             Console.WriteLine("Mashed Potatoes");
+            Console.WriteLine("Nick has weird socks.");
         }
     }
 }
