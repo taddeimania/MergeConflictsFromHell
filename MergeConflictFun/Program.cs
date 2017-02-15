@@ -12,6 +12,7 @@ namespace MergeConflictFun
         {
             Console.WriteLine("Hey everybody!");
             Console.WriteLine("Anything that is work safe");
+            Console.WriteLine("Joel is great!");
         }
     }
 }
