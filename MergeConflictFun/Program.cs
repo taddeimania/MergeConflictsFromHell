@@ -11,6 +11,7 @@ namespace MergeConflictFun
         static void Main(string[] args)
         {
             Console.WriteLine("Hey everybody!");
+            Console.WriteLine("Anything that is work safe");
         }
     }
 }
