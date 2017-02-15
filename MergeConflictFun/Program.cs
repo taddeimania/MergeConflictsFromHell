@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,6 +19,7 @@ namespace MergeConflictFun
             Console.WriteLine("Suh dude");
             Console.WriteLine("Mashed Potatoes");
             Console.WriteLine("Nick has weird socks.");
+            Console.WriteLine("Sorry for the disruption!");
         }
     }
 }
