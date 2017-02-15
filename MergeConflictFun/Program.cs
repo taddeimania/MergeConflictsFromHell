@@ -10,6 +10,7 @@ namespace MergeConflictFun
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hey everybody!");
         }
     }
 }
