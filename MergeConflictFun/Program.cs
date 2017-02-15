@@ -11,11 +11,20 @@ namespace MergeConflictFun
         static void Main(string[] args)
         {
             Console.WriteLine("Hey everybody!");
+<<<<<<< HEAD
             Console.WriteLine("Anything that is work safe");
             Console.WriteLine("Joel is great!");
             Console.WriteLine("Duuuuuuuuude");
             Console.WriteLine("Sweeeeeeet");
             Console.WriteLine("Suh dude");
+=======
+
+            Console.WriteLine("Anything that is work safe");
+            Console.WriteLine("Joel is great!");
+            Console.WriteLine("Yo!");
+            Console.WriteLine("Duuuuuuuuude");
+            Console.WriteLine("Sweeeeeeet");
+>>>>>>> yo
         }
     }
 }
